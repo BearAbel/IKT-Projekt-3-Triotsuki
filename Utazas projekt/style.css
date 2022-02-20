@@ -1,0 +1,49 @@
+body {
+    background-image: url(./háttérkép.jpg);
+    background-size: cover;
+    background-position: left;
+    width: 100%;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    opacity: 80%;
+}
+
+
+h1 {
+    background-color: white;
+    border-radius: 50px;
+
+    font-weight: bold;
+    opacity: 80%;
+}
+
+h3 {
+    margin-left: 2%;
+    font-style: italic;
+}
+
+.kep {
+    border: 3px solid black;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.sorkizart {
+    text-align: justify;
+}
+
+a:hover {
+    color: rgb(88, 88, 88);
+}
